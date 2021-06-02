@@ -16,7 +16,7 @@ import struct as st
 from pathlib import Path
 from time import time
 #from Logica import *                # importo todos los metodos implementados en la logica
-from lol import * 
+from model import * 
 
 # parametros iniciales de matplotlib
 matplotlib.use("TkAgg")
